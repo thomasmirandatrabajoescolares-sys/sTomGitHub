@@ -8,10 +8,6 @@
  
 ---
 
-<img width="240" height="240" alt="c51f5ad5cc105c0b2cc6b278a04e4a82" src="https://github.com/user-attachments/assets/c683cc6e-e98a-4bd7-96c6-d4ee7385b681" />
-
----
-
 # Habilidades
 
   HTML y CSS (básico)
@@ -24,9 +20,7 @@
   
   Trabajo en equipo
 
-  ---
   
-<img width="680" height="412" alt="228735137119811 62054724baf0b" src="https://github.com/user-attachments/assets/aafc960a-d273-4d5f-aab2-b2a3ea379394" />
 
 ---
 
@@ -54,4 +48,3 @@ My goal is to gain my first professional experience in software development, con
 
 ---
 
-<img width="780" height="420" alt="19b28c8372aaec65623f7ee7332e74be" src="https://github.com/user-attachments/assets/7c9dcc6a-f574-4a87-9aa6-24cf3e6808a5" />
